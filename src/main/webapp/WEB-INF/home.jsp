@@ -15,8 +15,12 @@ h3{
   text-align: center; 
   text-decoration: underline
 }
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+     background-image: url("images/im3.jpg");
+    }
 * {box-sizing: border-box;}
+
+   
 
 </style>  
 </head>
